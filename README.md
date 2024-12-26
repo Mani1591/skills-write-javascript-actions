@@ -25,7 +25,7 @@ _Write your own GitHub JavaScript Action and automate customized tasks unique to
 
 ### Congratulations, you've completed this course!
 
-In this course, you've learned a lot about developing custom actions using JavaScript and Actions Toolkit.
+In this course, you've learned a lot about developing custom actions using JavaScript and Actions Toolkit :).
 
 ## Publishing your actions
 
